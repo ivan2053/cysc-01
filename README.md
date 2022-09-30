@@ -1,4 +1,4 @@
-# ADC - Sensor de Temperatura
+# ADC - Sensor de Temperaturaa
 
 Alumno: Ivan di virgilio
 Curso: 6to 2da Avionica
